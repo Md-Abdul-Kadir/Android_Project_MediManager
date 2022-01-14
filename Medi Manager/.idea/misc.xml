@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Project 250/Andoid Code/MyLogInPage and Dashboard/app/src/main/res/layout/activity_blogs.xml" value="0.24791666666666667" />
+        <entry key="..\:/Project 250/Andoid Code/MyLogInPage and Dashboard/app/src/main/res/layout/activity_dashboard1.xml" value="0.25" />
+        <entry key="..\:/Project 250/Andoid Code/MyLogInPage and Dashboard/app/src/main/res/layout/activity_health_blog_view.xml" value="0.24791666666666667" />
+        <entry key="..\:/Project 250/Andoid Code/MyLogInPage and Dashboard/app/src/main/res/layout/activity_health_tips.xml" value="0.2" />
+        <entry key="..\:/Project 250/Andoid Code/MyLogInPage and Dashboard/app/src/main/res/layout/activity_log_in.xml" value="0.27890625" />
+        <entry key="..\:/Project 250/Andoid Code/MyLogInPage and Dashboard/app/src/main/res/layout/activity_main.xml" value="0.27890625" />
+        <entry key="..\:/Project 250/Andoid Code/MyLogInPage and Dashboard/app/src/main/res/layout/activity_register.xml" value="0.24791666666666667" />
+        <entry key="..\:/Project 250/Andoid Code/MyLogInPage and Dashboard/app/src/main/res/layout/activity_user_profile.xml" value="0.27890625" />
+        <entry key="..\:/Project 250/Andoid Code/MyLogInPage and Dashboard/app/src/main/res/layout/healthblog.xml" value="0.24479166666666666" />
+        <entry key="..\:/Project 250/Andoid Code/MyLogInPage and Dashboard/app/src/main/res/layout/list_view.xml" value="0.27890625" />
+        <entry key="..\:/Project 250/Andoid Code/MyLogInPage/app/src/main/res/layout/activity_dashboard1.xml" value="0.268359375" />
+        <entry key="..\:/Project 250/Andoid Code/MyLogInPage/app/src/main/res/layout/activity_log_in.xml" value="0.201171875" />
+        <entry key="..\:/Project 250/Andoid Code/MyLogInPage/app/src/main/res/layout/activity_main.xml" value="0.201171875" />
+        <entry key="..\:/Project 250/Andoid Code/MyLogInPage/app/src/main/res/layout/activity_register.xml" value="0.27890625" />
+        <entry key="..\:/Project 250/Enam sir er github repo/G11-Medi-Discover/Medi Manager/app/src/main/res/layout/activity_alarm_main.xml" value="0.24791666666666667" />
+        <entry key="..\:/Project 250/Enam sir er github repo/G11-Medi-Discover/Medi Manager/app/src/main/res/layout/activity_dashboard1.xml" value="0.16" />
+        <entry key="..\:/Project 250/Enam sir er github repo/G11-Medi-Discover/Medi Manager/app/src/main/res/layout/activity_doctor_profile.xml" value="0.13020833333333334" />
+        <entry key="..\:/Project 250/Enam sir er github repo/G11-Medi-Discover/Medi Manager/app/src/main/res/layout/activity_doctor_search.xml" value="0.13020833333333334" />
+        <entry key="..\:/Project 250/Enam sir er github repo/G11-Medi-Discover/Medi Manager/app/src/main/res/layout/activity_email_varifiaction.xml" value="0.15" />
+        <entry key="..\:/Project 250/Enam sir er github repo/G11-Medi-Discover/Medi Manager/app/src/main/res/layout/activity_health_blog_view.xml" value="0.13958333333333334" />
+        <entry key="..\:/Project 250/Enam sir er github repo/G11-Medi-Discover/Medi Manager/app/src/main/res/layout/activity_health_tips.xml" value="0.1" />
+        <entry key="..\:/Project 250/Enam sir er github repo/G11-Medi-Discover/Medi Manager/app/src/main/res/layout/activity_health_vlog_view.xml" value="0.24791666666666667" />
+        <entry key="..\:/Project 250/Enam sir er github repo/G11-Medi-Discover/Medi Manager/app/src/main/res/layout/activity_healthtips_view.xml" value="0.13020833333333334" />
+        <entry key="..\:/Project 250/Enam sir er github repo/G11-Medi-Discover/Medi Manager/app/src/main/res/layout/activity_healthvlog_list.xml" value="0.24791666666666667" />
+        <entry key="..\:/Project 250/Enam sir er github repo/G11-Medi-Discover/Medi Manager/app/src/main/res/layout/activity_log_in.xml" value="0.20935960591133004" />
+        <entry key="..\:/Project 250/Enam sir er github repo/G11-Medi-Discover/Medi Manager/app/src/main/res/layout/activity_main.xml" value="0.13958333333333334" />
+        <entry key="..\:/Project 250/Enam sir er github repo/G11-Medi-Discover/Medi Manager/app/src/main/res/layout/activity_register.xml" value="0.2" />
+        <entry key="..\:/Project 250/Enam sir er github repo/G11-Medi-Discover/Medi Manager/app/src/main/res/layout/activity_sample_doctor.xml" value="0.13020833333333334" />
+        <entry key="..\:/Project 250/Enam sir er github repo/G11-Medi-Discover/Medi Manager/app/src/main/res/layout/activity_test_pro.xml" value="0.13958333333333334" />
+        <entry key="..\:/Project 250/Enam sir er github repo/G11-Medi-Discover/Medi Manager/app/src/main/res/layout/sample_doctor.xml" value="0.13958333333333334" />
+        <entry key="..\:/Project 250/Enam sir er github repo/G11-Medi-Discover/Medi Manager/app/src/main/res/menu/main_menu.xml" value="0.13958333333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

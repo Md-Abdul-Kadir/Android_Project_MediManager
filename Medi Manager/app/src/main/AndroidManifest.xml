@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:dist="http://schemas.android.com/apk/distribution"
+    package="com.example.myloginpage">
+
+    <dist:module dist:instant="true" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.MyLogInPage">
+        <activity
+            android:name=".Test_pro_activity"
+            android:exported="false" />
+        <activity
+            android:name=".Email_varifiaction"
+            android:exported="false" />
+        <activity
+            android:name=".healthtipsView"
+            android:exported="false" />
+        <activity
+            android:name=".Health_tips"
+            android:exported="false" />
+        <activity
+            android:name=".HealthBlogView"
+            android:exported="false" />
+        <activity
+            android:name=".HealthBlog"
+            android:exported="false" />
+        <activity
+            android:name=".AlarmMain"
+            android:exported="false" />
+        <activity android:name=".dashboard1" />
+        <activity android:name=".logIn">
+            android:exported="false"
+        </activity>
+        <activity android:name=".RegisterActivity">
+            android:exported="false"
+        </activity>
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

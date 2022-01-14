@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="40px"
+    android:orientation="vertical"
+    tools:context=".AlarmMain">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="150dp"
+        android:background="@color/cardview_dark_background"
+        android:padding="20px">
+
+        <TextView
+            android:id="@+id/viewDrug"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingVertical="40px"
+            android:text=" # Drug Name"
+            android:textColor="@color/white"
+            android:textSize="20dp" />
+
+        <TextView
+            android:id="@+id/selectedTime"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="end"
+            android:paddingVertical="40px"
+            android:paddingEnd="50px"
+            android:text="00 : 00 PM"
+            android:textColor="@color/white"
+            android:textSize="16dp" />
+
+
+    </RelativeLayout>
+
+
+
+
+
+
+    <EditText
+        android:layout_marginTop="70dp"
+        android:id="@+id/setDrugField"
+        android:hint="Enter Drug Name"
+        android:textSize="16dp"
+        android:layout_marginHorizontal="50dp"
+        android:layout_marginBottom="20px"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    </EditText>
+
+
+
+    <Button
+        android:id="@+id/selectDrugBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="50dp"
+        android:text="Set Drug Name"
+        android:fontWeight="400"
+        android:paddingVertical="11dp"
+        android:backgroundTint="@color/teal_200"
+        android:textSize="14dp"/>
+
+    <Button
+        android:id="@+id/selectTimeBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="50dp"
+        android:backgroundTint="@color/teal_200"
+        android:fontWeight="400"
+        android:paddingVertical="11dp"
+        android:text="Set Time"
+        android:textSize="14dp" />
+
+    <Button
+        android:id="@+id/setAlarmBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="50dp"
+        android:layout_marginTop="80px"
+        android:text="Set Alarm"
+        android:paddingVertical="12dp"
+        android:backgroundTint="#058EFB"
+        android:textSize="14dp"/>
+
+    <Button
+        android:id="@+id/cancelAlarmBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:backgroundTint="#D80032"
+        android:paddingTop="15dp"
+        android:fontWeight="400"
+        android:paddingBottom="12dp"
+        android:layout_marginHorizontal="50dp"
+        android:text="Cancel Alarm"
+        android:textFontWeight="400"
+        android:textSize="14dp"/>
+
+</LinearLayout>

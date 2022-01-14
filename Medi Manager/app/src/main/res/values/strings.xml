@@ -1,0 +1,466 @@
+<resources>
+    <string name="app_name">Medi-Manager</string>
+    <string name="log">LogIn</string>
+    <string name="sign">Sign Up</string>
+    <string name="forgot">Forgot Password ?</string>
+    <string name="one">Eat a combination of different foods, including fruit, vegetables, legumes, nuts and whole grains.
+Adults should eat at least five portions (400g) of fruit and vegetables per day.
+You can improve your intake of fruits and vegetables by always including veggies in your meal;
+eating fresh fruit and vegetables as snacks; eating a variety of fruits and vegetables; and eating
+them in season. By eating healthy, you will reduce your risk of malnutrition
+ and noncommunicable diseases (NCDs) such as diabetes, heart disease, stroke and cancer.</string>
+    <string name="two">Filipinos consume twice the recommended amount of sodium, putting them at risk of high blood pressure,
+        which in turn increases the risk of heart disease and stroke. Most people get their sodium through salt. Reduce your salt intake to 5g per day, equivalent to about one teaspoon. It’s easier to do this by limiting the amount of salt, soy sauce, fish sauce
+        and other high-sodium condiments when preparing meals; removing salt, seasonings and condiments from your meal table;
+        avoiding salty snacks; and choosing low-sodium products.
+On the other hand, consuming excessive amounts of sugars increases the risk of tooth decay and unhealthy weight gain.
+ In both adults and children, the intake of free sugars should be reduced to less than 10% of total energy intake.
+This is equivalent to 50g or about 12 teaspoons for an adult. WHO recommends consuming less
+than 5% of total energy intake for additional health benefits. You can reduce your sugar intake
+ by limiting the consumption of sugary snacks, candies and sugar-sweetened beverages.</string>
+    <string name="three">Fats consumed should be less than 30% of your total energy intake. This will help prevent unhealthy weight gain and NCDs. There are different types of fats, but unsaturated fats are preferable over saturated fats and trans-fats. WHO recommends reducing saturated fats to less than 10% of total energy intake; reducing trans-fats to less than 1% of total energy intake; and replacing both saturated fats and trans-fats to unsaturated fats.
+The preferable unsaturated fats are found in fish, avocado and nuts, and in sunflower, soybean,
+canola and olive oils; saturated fats are found in fatty meat, butter, palm and coconut oil, cream,
+ cheese, ghee and lard; and trans-fats are found in baked and fried foods, and pre-packaged snacks and foods,
+such as frozen pizza, cookies, biscuits, and cooking oils and spreads.</string>
+    <string name="four">There is no safe level for drinking alcohol. Consuming alcohol can lead to health problems such as mental and behavioural disorders, including alcohol dependence, major NCDs such as liver cirrhosis, some cancers and heart diseases, as well as injuries resulting from violence and road clashes and collisions.</string>
+    <string name="five">Smoking tobacco causes NCDs such as lung disease, heart disease and stroke. Tobacco kills not only the direct smokers
+but even non-smokers through second-hand exposure. Currently, there are around 15.9 million Filipino adults who smoke
+tobacco but 7 in 10 smokers are interested or plan to quit.
+
+If you are currently a smoker, it’s not too late to quit. Once you do, you will experience immediate
+and long-term health benefits. If you are not a smoker, that’s great! Do not start smoking and fight for your right to breathe tobacco-smoke-free air.</string>
+    <string name="six">Physical activity is defined as any bodily movement produced
+by skeletal muscles that requires energy expenditure. This includes
+exercise and activities undertaken while working, playing, carrying out household chores,
+travelling, and engaging in recreational pursuits. The amount of physical activity you need
+depends on your age group but adults aged 18-64 years should do at least 150 minutes of moderate-intensity
+ physical activity throughout the week. Increase moderate-intensity physical activity to 300 minutes per week for additional health benefits.</string>
+    <string name="seven">Hypertension, or high blood pressure, is called a “silent killer”.
+This is because many people who have hypertension may not be aware of the
+problem as it may not have any symptoms. If left uncontrolled, hypertension can lead to heart,
+ brain, kidney and other diseases. Have your blood pressure checked regularly by a health worker
+so you know your numbers. If your blood pressure is high, get the advice of a health worker.
+This is vital in the prevention and control of hypertension.
+</string>
+    <string name="eight">Getting yourself tested is an important step in knowing your health status,
+especially when it comes to HIV, hepatitis B, sexually-transmitted infections
+(STIs) and tuberculosis (TB). Left untreated, these diseases can lead to serious
+complications and even death. Knowing your status means you will know how to either
+ continue preventing these diseases or, if you find out that you’re positive, get the care
+and treatment that you need. Go to a public or private health facility, wherever you are comfortable, to have yourself tested.</string>
+    <string name="nine">Vaccination is one of the most effective ways to prevent diseases.
+Vaccines work with your body’s natural defences to build protection
+against diseases like cervical cancer, cholera, diphtheria, hepatitis
+ B, influenza, measles, mumps, pneumonia, polio, rabies, rubella, tetanus,
+typhoid, and yellow fever.</string>
+    <string name="ten">Eat a combination of different foods, including fruit, vegetables, legumes, nuts and whole grains.
+Adults should eat at least five portions (400g) of fruit and vegetables per day.
+You can improve your intake of fruits and vegetables by always including veggies in your meal;
+eating fresh fruit and vegetables as snacks; eating a variety of fruits and vegetables; and eating
+them in season. By eating healthy, you will reduce your risk of malnutrition
+ and noncommunicable diseases (NCDs) such as diabetes, heart disease, stroke and cancer.</string>
+    <string name="eleven">Diseases such as influenza, pneumonia and tuberculosis are transmitted through the air.
+ When an infected person coughs or sneezes, infectious agents may be passed on to others
+through airborne droplets. When you feel a cough or sneeze coming on, make sure
+you have covered your mouth with a face mask or use a tissue then dispose it carefully.
+If you do not have a tissue close by when you cough or sneeze,
+cover your mouth as much as possible with the crook (or the inside) of your elbow.</string>
+    <string name="twelve">Mosquitoes are one of the deadliest animals in the world.
+ Diseases like dengue, chikungunya, malaria and lymphatic filariasis are transmitted
+by mosquitoes and continue to affect Filipinos. You can take simple measures to protect
+yourself and your loved ones against mosquito-borne diseases. If you’re traveling to an
+ area with known mosquito-borne diseases, consult a physician for a vaccine to prevent
+diseases such as Japanese encephalitis and yellow fever or if you need to take antimalarial medicines.
+ Wear light-coloured, long-sleeved shirts and pants and use insect repellent. At home, use window and door screens,
+ use bed nets and clean your surroundings weekly to destroy mosquito breeding sites.
+</string>
+    <string name="thirteen">Mosquitoes are one of the deadliest animals in the world.
+ Diseases like dengue, chikungunya, malaria and lymphatic filariasis are transmitted
+by mosquitoes and continue to affect Filipinos. You can take simple measures to protect
+yourself and your loved ones against mosquito-borne diseases. If you’re traveling to an
+ area with known mosquito-borne diseases, consult a physician for a vaccine to prevent
+diseases such as Japanese encephalitis and yellow fever or if you need to take antimalarial medicines.
+ Wear light-coloured, long-sleeved shirts and pants and use insect repellent. At home, use window and door screens,
+ use bed nets and clean your surroundings weekly to destroy mosquito breeding sites.
+</string>
+    <string name="fourteen">Drinking unsafe water can lead to water-borne diseases such as cholera,
+diarrhoea, hepatitis A, typhoid and polio. Globally, at least 2 billion
+people use a drinking water source contaminated with faeces. Check with
+your water concessionaire and water refilling station to ensure that the
+water you’re drinking is safe. In a setting where you are unsure of your
+water source, boil your water for at least one minute. This will destroy
+harmful organisms in the water. Let it cool naturally before drinking.</string>
+    <string name="seventeen">
+Antibiotic resistance is one of the biggest public health threats in
+our generation. When antibiotics lose their power, bacterial infections
+become harder to treat, leading to higher medical costs, prolonged hospital stays,
+ and increased mortality. Antibiotics are losing their power because of misuse and
+ overuse in humans and animals. Make sure you only take antibiotics if prescribed by
+ a qualified health professional. And once prescribed, complete the treatment days as instructed. Never share antibiotics.</string>
+    <string name="eighteen">Drinking unsafe water can lead to water-borne diseases such as cholera,
+diarrhoea, hepatitis A, typhoid and polio. Globally, at least 2 billion
+people use a drinking water source contaminated with faeces. Check with
+your water concessionaire and water refilling station to ensure that the
+water you’re drinking is safe. In a setting where you are unsure of your
+water source, boil your water for at least one minute. This will destroy
+harmful organisms in the water. Let it cool naturally before drinking.</string>
+    <string name="nineteen">Drinking unsafe water can lead to water-borne diseases such as cholera,
+diarrhoea, hepatitis A, typhoid and polio. Globally, at least 2 billion
+people use a drinking water source contaminated with faeces. Check with
+your water concessionaire and water refilling station to ensure that the
+water you’re drinking is safe. In a setting where you are unsure of your
+water source, boil your water for at least one minute. This will destroy
+harmful organisms in the water. Let it cool naturally before drinking.</string>
+
+    <string-array name="doctrName">
+        <item>"Name\:Dr Mohammad Hezbullah Jeebon"</item>
+        <item>"Name\:Dr Ranjon Roy"</item>
+        <item>"Name\:Dr ZHM Nazmul Islam"</item>
+        <item>"Name\:Professor Dr Uttom Kumar Saha"</item>
+        <item>"Name\:Dr Mstafa Hosen"</item>
+        <item>"Name\:Dr Ashraf khan"</item>
+        <item>"Name\:Dr Nazia Sultana"</item>
+        <item>"Name\:Dr Motalib Ali"</item>
+        <item>"Name\:Dr Azad Mahmud"</item>
+        <item>"Name\:Dr M A H Shusmoy Dhor"</item>
+        <item>"Name\:Dr Shahrafat Ali"</item>
+        <item>"Name\:Dr Ferdous Hossain"</item>
+        <item>"Name\:Dr Aisha Hayder Chowdhury"</item>
+        <item>"Name\:Dr Shamin Hassan"</item>
+        <item>"Name\:Dr Fahim Ahmad"</item>
+        <item>"Name\:Dr Golam Ali"</item>
+        <item>"Name\:Dr M A Noor"</item>
+        <item>"Name\:Dr Sbaiha Jahan"</item>
+        <item>"Name\:Dr Rony Sharkar"</item>
+        <item>"Name\:Dr shaikot Hasan"</item>
+        <item>"Name\:Dr Fatema Akter"</item>
+        <item>"Name\:Dr Lily Akter"</item>
+        <item>"Name\:Dr Dilruba Akter"</item>
+        <item>"Name\:Dr Nurjahan Begum"</item>
+        <item>"Name\:Dr Dilara Degum"</item>
+        <item>"Name\:Dr Hasnain Ali"</item>
+        <item>"Name\:Dr Samad Ahmed"</item>
+        <item>"Name\:Dr Jahanara Begum"</item>
+        <item>"Name\:Dr Nurun Nahar"</item>
+        <item>"Name\:Dr Fahima Akter"</item>
+        <item>"Name\:Dr Faruk Mahmud"</item>
+        <item>"Name\:Dr saifur Rahaman"</item>
+        <item>"Name\:Dr Shakil Mahmud"</item>
+        <item>"Name\:Dr Mostofa kamal"</item>
+        <item>"Name\:Dr Siam Ahmad"</item>
+        <item>"Name\:Dr Sany Hasan"</item>
+        <item>"Name\:Dr Mitu Chowdhury"</item>
+        <item>"Name\:Dr M A Akash"</item>
+        <item>"Name\:Dr Mahinur Alam"</item>
+        <item>"Name\:Dr Salman Hossain</item>
+        <item>"Name\:Dr Sakib Mahmud"</item>
+        <item>"Name\:Dr Jamal Uddin"</item>
+        <item>"Name\:Dr AKM Khan"</item>
+        <item>"Name\:Dr Kamal Akmal"</item>
+        <item>"Name\:Dr Jahangir Alam"</item>
+        <item>"Name\:Dr Azmot Khan"</item>
+        <item>"Name\:Dr Altab Hosssain"</item>
+        <item>"Name\:Dr Mafuj Mia"</item>
+        <item>"Name\:Dr Shahjahan Alam"</item>
+        <item>"Name\:Dr Enamul Hassan"</item>
+        <item>"Name\:Dr Mamun Ahmad"</item>
+        <item>"Name\:Dr Abdur Rahman"</item>
+        <item>"Name\:Dr Abbas Mia"</item>
+        <item>"Name\:Dr Tanvir Rahman"</item>
+        <item>"Name\:Dr Ashraful Islam"</item>
+    </string-array>
+    <string-array name="doctorSpecialist">
+        <item>"Speciality\:Associate Professor of Medicine"</item>
+        <item>"Speciality\:Medicine Specialist"</item>
+        <item>"Speciality\:Medicine Specialist"</item>
+        <item>"Speciality\:Neuro Medicine Specialist"</item>
+        <item>"Speciality\:Associate Professor of Neurology"</item>
+        <item>"Speciality\:Anesthesiologists"</item>
+        <item>"Speciality\:Cardiologists"</item>
+        <item>"Speciality\:Dermatologists"</item>
+        <item>"Speciality\:Endocrinologists"</item>
+        <item>"Speciality\:Emergency Medicine Specialists"</item>
+        <item>"Speciality\:Urologists"</item>
+        <item>"Speciality\:Ophthalmologists"</item>
+        <item>"Speciality\:Cardiologists"</item>
+        <item>"Speciality\:Otolaryngologists"</item>
+        <item>"Speciality\:General Surgeons"</item>
+        <item>"Speciality\:Anesthesiologists"</item>
+        <item>"Speciality\:Cardiologists"</item>
+        <item>"Speciality\:Dermatologists"</item>
+        <item>"Speciality\:Endocrinologists"</item>
+        <item>"Speciality\:Emergency Medicine Specialists"</item>
+        <item>"Speciality\:Urologists"</item>
+        <item>"Speciality\:Ophthalmologists"</item>
+        <item>"Speciality\:Cardiologists"</item>
+        <item>"Speciality\:Otolaryngologists"</item>
+        <item>"Speciality\:General Surgeons"</item>
+        <item>"Speciality\:Anesthesiologists"</item>
+        <item>"Speciality\:Cardiologists"</item>
+        <item>"Speciality\:Dermatologists"</item>
+        <item>"Speciality\:Endocrinologists"</item>
+        <item>"Speciality\:Emergency Medicine Specialists"</item>
+        <item>"Speciality\:Urologists"</item>
+        <item>"Speciality\:Ophthalmologists"</item>
+        <item>"Speciality\:Cardiologists"</item>
+        <item>"Speciality\:Otolaryngologists"</item>
+        <item>"Speciality\:General Surgeons"</item>
+        <item>"Speciality\:Anesthesiologists"</item>
+        <item>"Speciality\:Cardiologists"</item>
+        <item>"Speciality\:Dermatologists"</item>
+        <item>"Speciality\:Endocrinologists"</item>
+        <item>"Speciality\:Emergency Medicine Specialists"</item>
+        <item>"Speciality\:Urologists"</item>
+        <item>"Speciality\:Ophthalmologists"</item>
+        <item>"Speciality\:Cardiologists"</item>
+        <item>"Speciality\:Otolaryngologists"</item>
+        <item>"Speciality\:General Surgeons"</item>
+        <item>"Speciality\:Anesthesiologists"</item>
+        <item>"Speciality\:Cardiologists"</item>
+        <item>"Speciality\:Dermatologists"</item>
+        <item>"Speciality\:Endocrinologists"</item>
+        <item>"Speciality\:Emergency Medicine Specialists"</item>
+        <item>"Speciality\:Urologists"</item>
+        <item>"Speciality\:Ophthalmologists"</item>
+        <item>"Speciality\:Cardiologists"</item>
+        <item>"Speciality\:Otolaryngologists"</item>
+        <item>"Speciality\:General Surgeons"</item>
+    </string-array>
+    <string-array name="doctorContactNumber">
+        <item>"01714726428"</item>
+        <item>"01710263588"</item>
+        <item>"01708185425"</item>
+        <item>"01722912822"</item>
+        <item>"01789069367"</item>
+        <item>"01789069367"</item>
+        <item>"01789845798"</item>
+        <item>"01748957984"</item>
+        <item>"01759348590"</item>
+        <item>"01779759834"</item>
+        <item>"01737458973"</item>
+        <item>"01798273459"</item>
+        <item>"01724545454"</item>
+        <item>"01745634564"</item>
+        <item>"01723452345"</item>
+        <item>"01744445656"</item>
+        <item>"01923453454"</item>
+        <item>"01723456677"</item>
+        <item>"01764563567"</item>
+        <item>"01713434566"</item>
+        <item>"01797689674"</item>
+        <item>"01734566773"</item>
+        <item>"01723654672"</item>
+        <item>"01723467722"</item>
+        <item>"01723467676"</item>
+        <item>"01723465727"</item>
+        <item>"01472456254"</item>
+        <item>"01789069367"</item>
+        <item>"01799999999"</item>
+        <item>"01788888888"</item>
+        <item>"01723462547"</item>
+        <item>"01755734556"</item>
+        <item>"01724567246"</item>
+        <item>"01745345263"</item>
+        <item>"01723454657"</item>
+        <item>"01723456764"</item>
+        <item>"01732467734"</item>
+        <item>"01734562356"</item>
+        <item>"01723456774"</item>
+        <item>"01735466735"</item>
+        <item>"01723456745"</item>
+        <item>"01789567445"</item>
+        <item>"01745345344"</item>
+        <item>"01790580945"</item>
+        <item>"01708509450"</item>
+        <item>"01723452435"</item>
+        <item>"01721345533"</item>
+        <item>"01713545664"</item>
+        <item>"01744524134"</item>
+        <item>"01709849582"</item>
+        <item>"01775989233"</item>
+        <item>"01787598934"</item>
+        <item>"01783452345"</item>
+        <item>"01783444549"</item>
+        <item>"01744524134"</item>
+
+
+    </string-array>
+    <string-array name="doctorVisitingHour">
+        <item>"4\.30PM - 10\.00PM\(Friday Closed\)"</item>
+        <item>"5\.00PM - 08\.00PM\(Only Saturday and Sunday\)"</item>
+        <item>"5\.00PM - 08\.00PM\(Friday Closed\)"</item>
+        <item>"10\.00AM - 11\.00AM\(only Thursday and Friday\)"</item>
+        <item>"5\.00PM - 9\.00PM\(Friday Closed\)"</item>
+        <item>"4\.30PM - 10\.00PM\(Friday Closed\)"</item>
+        <item>"5\.00PM - 08\.00PM\(Only Saturday and Sunday\)"</item>
+        <item>"5\.00PM - 08\.00PM\(Friday Closed\)"</item>
+        <item>"10\.00AM - 11\.00AM\(only Thursday and Friday\)"</item>
+        <item>"5\.00PM - 9\.00PM\(Friday Closed\)"</item>
+        <item>"4\.30PM - 10\.00PM\(Friday Closed\)"</item>
+        <item>"5\.00PM - 08\.00PM\(Only Saturday and Sunday\)"</item>
+        <item>"5\.00PM - 08\.00PM\(Friday Closed\)"</item>
+        <item>"10\.00AM - 11\.00AM\(only Thursday and Friday\)"</item>
+        <item>"5\.00PM - 9\.00PM\(Friday Closed\)"</item>
+        <item>"4\.30PM - 10\.00PM\(Friday Closed\)"</item>
+        <item>"5\.00PM - 08\.00PM\(Only Saturday and Sunday\)"</item>
+        <item>"5\.00PM - 08\.00PM\(Friday Closed\)"</item>
+        <item>"10\.00AM - 11\.00AM\(only Thursday and Friday\)"</item>
+        <item>"5\.00PM - 9\.00PM\(Friday Closed\)"</item>
+        <item>"4\.30PM - 10\.00PM\(Friday Closed\)"</item>
+        <item>"5\.00PM - 08\.00PM\(Only Saturday and Sunday\)"</item>
+        <item>"5\.00PM - 08\.00PM\(Friday Closed\)"</item>
+        <item>"10\.00AM - 11\.00AM\(only Thursday and Friday\)"</item>
+        <item>"5\.00PM - 9\.00PM\(Friday Closed\)"</item>
+        <item>"4\.30PM - 10\.00PM\(Friday Closed\)"</item>
+        <item>"5\.00PM - 08\.00PM\(Only Saturday and Sunday\)"</item>
+        <item>"5\.00PM - 08\.00PM\(Friday Closed\)"</item>
+        <item>"10\.00AM - 11\.00AM\(only Thursday and Friday\)"</item>
+        <item>"5\.00PM - 9\.00PM\(Friday Closed\)"</item>
+        <item>"4\.30PM - 10\.00PM\(Friday Closed\)"</item>
+        <item>"5\.00PM - 08\.00PM\(Only Saturday and Sunday\)"</item>
+        <item>"5\.00PM - 08\.00PM\(Friday Closed\)"</item>
+        <item>"10\.00AM - 11\.00AM\(only Thursday and Friday\)"</item>
+        <item>"5\.00PM - 9\.00PM\(Friday Closed\)"</item>
+        <item>"4\.30PM - 10\.00PM\(Friday Closed\)"</item>
+        <item>"5\.00PM - 08\.00PM\(Only Saturday and Sunday\)"</item>
+        <item>"5\.00PM - 08\.00PM\(Friday Closed\)"</item>
+        <item>"10\.00AM - 11\.00AM\(only Thursday and Friday\)"</item>
+        <item>"5\.00PM - 9\.00PM\(Friday Closed\)"</item>
+        <item>"4\.30PM - 10\.00PM\(Friday Closed\)"</item>
+        <item>"5\.00PM - 08\.00PM\(Only Saturday and Sunday\)"</item>
+        <item>"5\.00PM - 08\.00PM\(Friday Closed\)"</item>
+        <item>"10\.00AM - 11\.00AM\(only Thursday and Friday\)"</item>
+        <item>"5\.00PM - 9\.00PM\(Friday Closed\)"</item>
+        <item>"4\.30PM - 10\.00PM\(Friday Closed\)"</item>
+        <item>"5\.00PM - 08\.00PM\(Only Saturday and Sunday\)"</item>
+        <item>"5\.00PM - 08\.00PM\(Friday Closed\)"</item>
+        <item>"10\.00AM - 11\.00AM\(only Thursday and Friday\)"</item>
+        <item>"5\.00PM - 9\.00PM\(Friday Closed\)"</item>
+        <item>"4\.30PM - 10\.00PM\(Friday Closed\)"</item>
+        <item>"5\.00PM - 08\.00PM\(Only Saturday and Sunday\)"</item>
+        <item>"10\.00AM - 11\.00AM\(only Thursday and Friday\)"</item>
+        <item>"5\.00PM - 9\.00PM\(Friday Closed\)"</item>
+        <item>"8\.00PM - 9\.00PM\(Monday Closed\)"</item>
+    </string-array>
+
+    <string-array name="doctorAddress">
+        <item>"Popular Medical Center Ltd"</item>
+        <item>"Popular Medical Center Ltd"</item>
+        <item>"Popular Medical Center Ltd"</item>
+        <item>"Popular Medical Center Ltd"</item>
+        <item>"Popular Medical Center Ltd"</item>
+
+        <item>"Holy Medical Ltd"</item>
+        <item>"MAG Osmani Medical College"</item>
+        <item>"Ragib Rabeya Medical College LTD"</item>
+        <item>"Mount Adora Hospital LTD"</item>
+        <item>"International Medical College"</item>
+        <item>"Holy Medical LTd"</item>
+        <item>"MAG Osmani Medical College"</item>
+        <item>"Ragib Rabeya Medical College LTD"</item>
+        <item>"Mount Adora Hospital LTD"</item>
+        <item>"International Medicla College"</item>
+        <item>"Holy Medical Ltd"</item>
+        <item>"MAG Osmani Medical College"</item>
+        <item>"Ragib Rabeya Medical College LTD"</item>
+        <item>"Mount Adora Hospital LTD"</item>
+        <item>"International Medical College"</item>
+        <item>"Holy Medical LTd"</item>
+        <item>"MAG Osmani Medical College"</item>
+        <item>"Ragib Rabeya Medical College LTD"</item>
+        <item>"Mount Adora Hospital LTD"</item>
+        <item>"International Medical College"</item>
+        <item>"Holy Medical Ltd"</item>
+        <item>"MAG Osmani Medical College"</item>
+        <item>"Ragib Rabeya Medical College LTD"</item>
+        <item>"Mount Adora Hospital LTD"</item>
+        <item>"International Medicla College"</item>
+        <item>"Holy Medical Ltd"</item>
+        <item>"MAG Osmani Medical College"</item>
+        <item>"Ragib Rabeya Medical College LTD"</item>
+        <item>"Mount Adora Hospital LTD"</item>
+        <item>"International Medicla College"</item>
+        <item>"Holy Medical Ltd"</item>
+        <item>"MAG Osmani Medical College"</item>
+        <item>"Ragib Rabeya Medical College LTD"</item>
+        <item>"Mount Adora Hospital LTD"</item>
+        <item>"International Medicla College"</item>
+        <item>"Holy Medical Ltd"</item>
+        <item>"MAG Osmani Medical College"</item>
+        <item>"Ragib Rabeya Medical College LTD"</item>
+        <item>"Mount Adora Hospital LTD"</item>
+        <item>"International Medicla College"</item>
+        <item>"Holy Medical LTd"</item>
+        <item>"MAG Osmani Medical College"</item>
+        <item>"Ragib Rabeya Medical College LTD"</item>
+        <item>"Mount Adora Hospital LTD"</item>
+        <item>"International Medicla College"</item>
+        <item>"Holy Medical Ltd"</item>
+        <item>"MAG Osmani Medical College"</item>
+        <item>"Ragib Rabeya Medical College LTD"</item>
+        <item>"Mount Adora Hospital LTD"</item>
+        <item>"Ibnesina Hospital LTD"</item>
+
+    </string-array>
+    <string-array name="doctorqualification">
+        <item>"MBBS\,BCS\,FCPS\(Medicine\)"</item>
+        <item>"MBBS\,BCS\,FCPS\(Medicine\)"</item>
+        <item>"MBBS\,BCS\,FCPS\(Medicine\)"</item>
+        <item>"MBBS\,MCPS\(Medicine\)\,MD\(Neurology\)"</item>
+        <item>"MBBS\,BCS\,MD\(Neurology\)"</item>
+        <item>"MBBS\,BCS\,FCPS\(Medicine\)"</item>
+        <item>"MBBS\,MCPS\(Medicine\)\,MD\(Neurology\)"</item>
+        <item>"MBBS\,BCS\,MD\(Neurology\)"</item>
+        <item>"MBBS\,BCS\,FCPS\(Medicine\)"</item>
+        <item>"MBBS\,MCPS\(Medicine\)\,MD\(Neurology\)"</item>
+        <item>"MBBS\,BCS\,MD\(Neurology\)"</item>
+        <item>"MBBS\,BCS\,FCPS\(Medicine\)"</item>
+        <item>"MBBS\,MCPS\(Medicine\)\,MD\(Neurology\)"</item>
+        <item>"MBBS\,BCS\,MD\(Neurology\)"</item>
+        <item>"MBBS\,BCS\,FCPS\(Medicine\)"</item>
+        <item>"MBBS\,MCPS\(Medicine\)\,MD\(Neurology\)"</item>
+        <item>"MBBS\,BCS\,MD\(Neurology\)"</item>
+        <item>"MBBS\,BCS\,FCPS\(Medicine\)"</item>
+        <item>"MBBS\,MCPS\(Medicine\)\,MD\(Neurology\)"</item>
+        <item>"MBBS\,BCS\,MD\(Neurology\)"</item>
+        <item>"MBBS\,BCS\,FCPS\(Medicine\)"</item>
+        <item>"MBBS\,MCPS\(Medicine\)\,MD\(Neurology\)"</item>
+        <item>"MBBS\,BCS\,MD\(Neurology\)"</item>
+        <item>"MBBS\,BCS\,FCPS\(Medicine\)"</item>
+        <item>"MBBS\,MCPS\(Medicine\)\,MD\(Neurology\)"</item>
+        <item>"MBBS\,BCS\,MD\(Neurology\)"</item>
+        <item>"MBBS\,BCS\,FCPS\(Medicine\)"</item>
+        <item>"MBBS\,MCPS\(Medicine\)\,MD\(Neurology\)"</item>
+        <item>"MBBS\,BCS\,MD\(Neurology\)"</item>
+        <item>"MBBS\,BCS\,FCPS\(Medicine\)"</item>
+        <item>"MBBS\,MCPS\(Medicine\)\,MD\(Neurology\)"</item>
+        <item>"MBBS\,BCS\,MD\(Neurology\)"</item>
+        <item>"MBBS\,BCS\,FCPS\(Medicine\)"</item>
+        <item>"MBBS\,MCPS\(Medicine\)\,MD\(Neurology\)"</item>
+        <item>"MBBS\,BCS\,MD\(Neurology\)"</item>
+        <item>"MBBS\,BCS\,FCPS\(Medicine\)"</item>
+        <item>"MBBS\,MCPS\(Medicine\)\,MD\(Neurology\)"</item>
+        <item>"MBBS\,BCS\,MD\(Neurology\)"</item>
+        <item>"MBBS\,BCS\,FCPS\(Medicine\)"</item>
+        <item>"MBBS\,MCPS\(Medicine\)\,MD\(Neurology\)"</item>
+        <item>"MBBS\,BCS\,MD\(Neurology\)"</item>
+        <item>"MBBS\,BCS\,FCPS\(Medicine\)"</item>
+        <item>"MBBS\,MCPS\(Medicine\)\,MD\(Neurology\)"</item>
+        <item>"MBBS\,BCS\,MD\(Neurology\)"</item>
+        <item>"MBBS\,BCS\,FCPS\(Medicine\)"</item>
+        <item>"MBBS\,MCPS\(Medicine\)\,MD\(Neurology\)"</item>
+        <item>"MBBS\,BCS\,MD\(Neurology\)"</item>
+        <item>"MBBS\,BCS\,FCPS\(Medicine\)"</item>
+        <item>"MBBS\,MCPS\(Medicine\)\,MD\(Neurology\)"</item>
+        <item>"MBBS\,BCS\,MD\(Neurology\)"</item>
+        <item>"MBBS\,MCPS\(Medicine\)\,MD\(Neurology\)"</item>
+        <item>"MBBS\,BCS\,MD\(Neurology\)"</item>
+        <item>"MBBS\,BCS\,FCPS\(Medicine\)"</item>
+        <item>"MBBS\,MCPS\(Medicine\)\,MD\(Neurology\)"</item>
+        <item>"MBBS\,BCS\,FCPS\(Medicine\)"</item>
+
+    </string-array>
+
+
+</resources>
